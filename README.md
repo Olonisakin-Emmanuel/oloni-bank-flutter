@@ -258,18 +258,20 @@ Some of the main areas I worked with include:
 
 The project also helped me understand that building a working application involves more than writing code. Testing, debugging, deployment, configuration, and understanding how the different components communicate are equally important.
 
-## 🔮 Future Development
+## 🔮 Future Development — Oloni Bank 2.0
 
-Oloni Bank 2.0 may include additional features and improvements such as:
+Oloni Bank 2.0 is planned to introduce more intelligent and personalised banking features, with **AI playing a major role** in the next stage of the project.
 
-- Oloni Insight for financial insights
-- Enhanced transaction receipts
-- Additional security features
-- More advanced account management
-- Improved transaction experience
-- Additional financial tools and services
+Planned areas include:
 
-These features are intentionally reserved for a future version of the project.
+- 🎙️ **Voice Banking** — allowing users to interact with the application using voice.
+- 🤖 **Oloni AI** — an AI-powered financial assistant that can help users understand their spending and financial activity.
+- 📊 **Oloni Insight** — personalised financial insights and analytics.
+- 🔐 **Enhanced Security** — stronger authentication and transaction security.
+- 🎯 **Financial Goals** — tools to help users set and track personal financial goals.
+- 🧾 **Enhanced Transaction Experience** — improved receipts and transaction features.
+
+The goal is to evolve Oloni Bank from a basic digital banking application into a more intelligent and personalised financial platform.
 
 ## 👨‍💻 Author
 
