@@ -23,6 +23,12 @@ The backend is deployed on Render and uses PostgreSQL as the production database
 
 Oloni Bank is a fictional banking application created strictly for educational, demonstration, and portfolio purposes. It is not a real financial institution and is not affiliated with any bank or financial institution.
 
+## 📱 Download Oloni Bank
+
+[⬇️ Download Oloni Bank 1.0 APK](https://github.com/Olonisakin-Emmanuel/oloni-bank-flutter/releases/download/v1.0.0/oloni_bank.apk)
+
+> **Note:** Oloni Bank is a fictional banking application created for educational, demonstration, and portfolio purposes.
+
 The application is designed to demonstrate software engineering concepts including mobile application development, backend API development, database integration, authentication, and deployment.
 
 ## ✨ Key Features
