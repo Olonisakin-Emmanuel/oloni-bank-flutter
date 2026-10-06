@@ -1,4 +1,3 @@
-Absolutely. Here is the **entire README from beginning to end in one single copyable block**. Copy everything inside the block and replace your current `README.md` completely.
 
 ```markdown
 # 🏦 Oloni Bank
