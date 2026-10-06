@@ -45,9 +45,9 @@ One of the main goals of this project was not simply to build a banking interfac
 
 The project helped me understand how:
 
-
+```text
 Flutter → REST API → Backend Logic → Database
-
+```
 
 work together as one complete system.
 
