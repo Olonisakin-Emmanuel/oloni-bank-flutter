@@ -107,7 +107,7 @@ SQLAlchemy
 PostgreSQL
 
 This structure helped me understand how a mobile application, backend API, and database work together as one system.
-
+```
 ## 🔄 How the Application Works
 
 The main flow of Oloni Bank is:
