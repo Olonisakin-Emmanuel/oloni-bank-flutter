@@ -288,5 +288,3 @@ Oloni Bank was built as a learning and portfolio project to gain practical exper
 
 It is not intended for real financial transactions or use as a real banking service.
 ```
-
-**That's the complete README.** Replace your current one with this, save it, and then we can handle the GitHub update afterward.
