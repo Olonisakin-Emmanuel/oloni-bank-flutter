@@ -203,7 +203,7 @@ oloni_bank/
 
 ```bash
 git clone https://github.com/Olonisakin-Emmanuel/oloni-bank-flutter.git
-cd oloni_bank
+cd oloni-bank-flutter
 ```
 
 ### 2. Install Flutter dependencies
