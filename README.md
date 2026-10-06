@@ -1,8 +1,6 @@
 
-````
 # 🏦 Oloni Bank
 
-````
 ````
 ### A Full-Stack Digital Banking Application Built with Flutter, FastAPI & PostgreSQL
 
