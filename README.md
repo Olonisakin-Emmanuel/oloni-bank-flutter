@@ -521,7 +521,3 @@ I am interested in opportunities involving:
 
 **AI • Machine Learning • Data • Fintech • Product Development**
 
-```
-
-**Yes, this time the entire thing is one code block.** Click the **Copy** button on the top-right of the block and paste it directly into `README.md`.
-```
