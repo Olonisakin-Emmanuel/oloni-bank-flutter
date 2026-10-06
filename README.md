@@ -121,7 +121,7 @@ The main flow of Oloni Bank is:
 7. The Flutter application retrieves the updated information from the API and displays it to the user.
 
 Building this flow helped me understand the relationship between a mobile frontend, backend services, APIs, authentication, and persistent database storage.
-```
+
 ## 📱 Application Screenshots
 
 ### Splash Screen
