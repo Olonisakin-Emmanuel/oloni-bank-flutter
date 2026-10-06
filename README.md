@@ -1,8 +1,5 @@
-Yes 😂 **exactly.** You want **one single Markdown code block** from `# 🏦 Oloni Bank` all the way to `⭐ Let's Connect`, so you can click the **Copy** button at the top-right of the block and paste the entire thing directly into GitHub.
 
-Here it is:
-
-````markdown
+````
 # 🏦 Oloni Bank
 
 ### A Full-Stack Digital Banking Application Built with Flutter, FastAPI & PostgreSQL
