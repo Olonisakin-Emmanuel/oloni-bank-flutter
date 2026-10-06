@@ -263,7 +263,7 @@ Oloni Bank 1.0 has been packaged as an Android APK and tested successfully on a 
 
 ### Download
 
-**[Download Oloni Bank v1.0.0](https://github.com/Olonisakin-Emmanuel/oloni-bank-flutter/releases/latest)**
+**[Download Oloni Bank v1.0.0](https://github.com/Olonisakin-Emmanuel/oloni-bank-flutter/releases/download/v1.0.0/oloni_bank.apk)**
 
 The APK can be installed on an Android device for demonstration and testing.
 
