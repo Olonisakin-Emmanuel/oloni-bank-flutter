@@ -273,14 +273,18 @@ Planned areas include:
 
 The goal is to evolve Oloni Bank from a basic digital banking application into a more intelligent and personalised financial platform.
 
+
 ## 👨‍💻 Author
 
-**Engr. Dr. Kolade Julius Olonisakin, FNSE**
+**Olonisakin Oluwagbenga Emmanuel**
 
-AI & Smart Mobility Specialist | Software Engineering & AI Enthusiast
+AI/ML Engineer | Data Analyst | Full-Stack Developer
 
-GitHub:  
-https://github.com/Olonisakin-Emmanuel
+📍 Abuja, Nigeria
+
+- 🔗 LinkedIn: www.linkedin.com/in/olonisakin-emmanuel
+- 💻 GitHub: https://github.com/Olonisakin-Emmanuel
+
 
 ## 📌 Project Purpose
 
