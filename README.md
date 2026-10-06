@@ -1,7 +1,6 @@
-````
+
 # 🏦 Oloni Bank
 
-````
 ### A Full-Stack Digital Banking Application Built with Flutter, FastAPI & PostgreSQL
 
 Oloni Bank is a fictional digital banking application I built as a practical full-stack software project.
@@ -20,7 +19,7 @@ Oloni Bank 1.0 is available as an Android APK.
 
 You can install the application on an Android device and experience the working banking application firsthand.
 
-### 🚀 [Download Oloni Bank v1.0.0](https://github.com/Olonisakin-Emmanuel/oloni-bank-flutter/releases/latest)
+### 🚀 [https://github.com/Olonisakin-Emmanuel/oloni-bank-flutter/releases/download/v1.0.0/oloni_bank.apk)
 
 > **Important:** Oloni Bank is a fictional banking application created for educational, demonstration and portfolio purposes. It uses demo/test funds and should not be used for real financial transactions.
 
