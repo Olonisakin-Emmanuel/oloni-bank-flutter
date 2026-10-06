@@ -1,5 +1,4 @@
 
-```markdown
 # 🏦 Oloni Bank
 
 ### A Full-Stack Digital Banking Application Built with Flutter, FastAPI & PostgreSQL
@@ -106,7 +105,6 @@ FastAPI Backend
 SQLAlchemy
      ↓
 PostgreSQL
-```
 
 This structure helped me understand how a mobile application, backend API, and database work together as one system.
 
