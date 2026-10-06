@@ -97,7 +97,7 @@ Oloni Bank uses a full-stack architecture built with Flutter, FastAPI, SQLAlchem
 
 The Flutter mobile application communicates with the FastAPI backend through REST APIs. The backend handles authentication and banking operations, while SQLAlchemy is used to communicate with the PostgreSQL database.
 
-```text
+```
 Flutter App
      ↓
 FastAPI Backend
