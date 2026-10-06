@@ -3,6 +3,7 @@
 # 🏦 Oloni Bank
 
 ````
+````
 ### A Full-Stack Digital Banking Application Built with Flutter, FastAPI & PostgreSQL
 
 Oloni Bank is a fictional digital banking application I built as a practical full-stack software project.
