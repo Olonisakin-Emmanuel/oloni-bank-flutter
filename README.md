@@ -147,7 +147,7 @@ Building this flow helped me understand the relationship between a mobile fronte
 ### Transaction Details
 
 ![Oloni Bank Transaction Details](screenshots/Transaction%20Details.jpeg)
-```
+
 ## 🚀 Production Deployment
 
 The FastAPI backend for Oloni Bank is deployed on Render.
@@ -165,7 +165,7 @@ The production setup uses:
 - Render for backend deployment
 
 The Flutter application is configured to communicate with the deployed production API.
-```
+
 ## 📂 Project Structure
 
 The Flutter application is organised into different sections for the user interface, configuration, services, assets, and platform-specific files.
